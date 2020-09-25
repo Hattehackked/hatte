@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+html {
+    background-color: bisque;
+}
+
+p {
+    margin: auto;
+    width: 30%;
+    margin-top: 300px;
+    border: 2px solid rgb(101, 115, 156);
+    padding: 40px;
+}
