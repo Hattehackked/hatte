@@ -1,5 +1,6 @@
-let myParagraph = document.querySelector('h2')
+let myHeading = document.querySelector('h1')
 
-myParagraph.onclick = () => {
-    myParagraph.textContent = 'Yea I changed'
+
+myHeading.onclick = function () {
+    myHeading.textContent = 'Why are u poking me!!!?'
 }
